@@ -10,7 +10,7 @@ $ git branch -M main
 
 WIRAWANAMSI MINOWS4/d/website-sederhana (main)
 
-$ git remote add origin https://github.com/dirumahrafif/dirumahrafif.github.io.g
+$ git remote add origin https://github.com/fausra16/dirumahrafif.github.io.g
 
 it
 
